@@ -26,7 +26,7 @@ E:\Users\user\Documents\Ritza>pip install matplotlib
 Use the following code:
 
 ```python
-import matplotli.pyplot as plt
+import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 from matplotlib.backends.backend_pdf import PdfPages
